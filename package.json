@@ -16,8 +16,16 @@
   "author": "jose.padín",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
   "preferGlobal": true,
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jose-padin/moderdonia-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jose-padin/moderdonia-random-messages/issues"
+  },
+  "homepage": "https://github.com/jose-padin/moderdonia-random-messages#readme"
 }
